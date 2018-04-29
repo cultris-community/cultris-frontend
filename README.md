@@ -15,7 +15,9 @@ ToDos:
  - Finetune colors
  - Select font, current one is Helvetica Neue which is nice but rather unavailable outside of the Apple world
  - See how the layout works with more content
+ - Decide which content is needed and how it's structured
  - HTML implementation
+ - Mobile version
 
 ![default state](https://github.com/cultris-community/cultris-frontend/blob/master/drafts/draft_3_start.png)
 ![play now selected](https://github.com/cultris-community/cultris-frontend/blob/master/drafts/draft_3_down.png)
