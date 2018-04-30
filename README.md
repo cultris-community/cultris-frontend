@@ -19,8 +19,8 @@ ToDos:
  - HTML implementation
  - Mobile version
 
-![default state](https://github.com/cultris-community/cultris-frontend/blob/master/drafts/draft_3_start.png)
-![play now selected](https://github.com/cultris-community/cultris-frontend/blob/master/drafts/draft_3_down.png)
-![highscore selected](https://github.com/cultris-community/cultris-frontend/blob/master/drafts/draft_3_high.png)
-![how to play selected](https://github.com/cultris-community/cultris-frontend/blob/master/drafts/draft_3_how.png)
-![community selected](https://github.com/cultris-community/cultris-frontend/blob/master/drafts/draft_3_com.png)
+![default state](https://github.com/cultris-community/cultris-frontend/blob/master/drafts/mockup_pictures/draft_3_start.png)
+![play now selected](https://github.com/cultris-community/cultris-frontend/blob/master/drafts/mockup_pictures/draft_3_down.png)
+![highscore selected](https://github.com/cultris-community/cultris-frontend/blob/master/drafts/mockup_pictures/draft_3_high.png)
+![how to play selected](https://github.com/cultris-community/cultris-frontend/blob/master/drafts/mockup_pictures/draft_3_how.png)
+![community selected](https://github.com/cultris-community/cultris-frontend/blob/master/drafts/mockup_pictures/draft_3_com.png)
